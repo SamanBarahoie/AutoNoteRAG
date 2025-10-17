@@ -11,7 +11,7 @@
 
 ## Application Preview
 
-<img alt="AutoNoteRAG - AI-powered meeting summarizer demo" src="assets/demo_meeting_summary.png"></img>
+<img alt="AutoNoteRAG - AI-powered meeting summarizer demo" src="demo_meeting_summary.png"></img>
 
 ---
 
