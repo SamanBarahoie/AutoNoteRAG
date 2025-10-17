@@ -82,5 +82,3 @@ It bridges the gap between **retrieval precision** and **language generation flu
 ---
 
 **Keywords:** RAG, Meeting Summarization, LLMs, FAISS, LangChain, Python, Information Retrieval, AI Note-Taking
-
-؟
